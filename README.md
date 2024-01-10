@@ -138,8 +138,8 @@ Future improvements on these models will likely come from careful and clever dat
 In the real world, we would want to bring in additional information about each of these stocks such as sentiment score of news, financial history, and growth prospects so that we could hope to generate better predictions about how they might move in the future.
 
 ## References
-[1] Ng, Yibin. “Forecasting Stock Prices using XGBoost (Part 1/5)” October 26, 2019. Medium. link
-[2] Jian, Zhenah. “An Attention GRU-XGBoost Model for Stock Market Prediction Strategies” November 27, 2022. 2022 4th International Conference on Advanced Information Science and System (AISS 2022). link
-[3] Forbes, Tom. “Optiver — Trading At The Close Introduction” September 20, 2023. Kaggle link
-[4] Amunategui, Manuel. “Stock Market Predictions with Markov Chains and Python” March 26, 2019. Viral ML Blog link
-[5] Cheng, Heng-Tze, et al. “Wide & deep learning for recommender systems.” June 26, 2016. Proceedings of the 1st workshop on deep learning for recommender systems. link
+[1] Ng, Yibin. “Forecasting Stock Prices using XGBoost (Part 1/5)” October 26, 2019. Medium. link  
+[2] Jian, Zhenah. “An Attention GRU-XGBoost Model for Stock Market Prediction Strategies” November 27, 2022. 2022 4th International Conference on Advanced Information Science and System (AISS 2022). link  
+[3] Forbes, Tom. “Optiver — Trading At The Close Introduction” September 20, 2023. Kaggle link  
+[4] Amunategui, Manuel. “Stock Market Predictions with Markov Chains and Python” March 26, 2019. Viral ML Blog link  
+[5] Cheng, Heng-Tze, et al. “Wide & deep learning for recommender systems.” June 26, 2016. Proceedings of the 1st workshop on deep learning for recommender systems. link  
